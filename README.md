@@ -1,6 +1,5 @@
 # Welcome, I am Aroshold👋🏼
-### (pronounced 'aros hold' but like one word, not english 'aro∫old'
-### hope you got it)
+### (pronounced 'aros hold' but like one word, not english 'aro∫old'. I hope you got it)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aroshold)](https://github.com/anuraghazra/github-readme-stats)
 - A freelance programmer, proficient in different languages.
